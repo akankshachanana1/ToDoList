@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/akankshachanana1/ToDoList.git/static/css/main.fbdaaea2.css",
+    "main.js": "/akankshachanana1/ToDoList.git/static/js/main.ff755248.js",
+    "index.html": "/akankshachanana1/ToDoList.git/index.html",
+    "main.fbdaaea2.css.map": "/akankshachanana1/ToDoList.git/static/css/main.fbdaaea2.css.map",
+    "main.ff755248.js.map": "/akankshachanana1/ToDoList.git/static/js/main.ff755248.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbdaaea2.css",
+    "static/js/main.ff755248.js"
+  ]
+}
