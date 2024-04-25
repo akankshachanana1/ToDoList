@@ -9,6 +9,8 @@ Allow users to conquer their day with customizable to-do list tailored to their 
 <li> allow users to update list</li>
 
 </ul>
+
+
 ### Technologies
 
 Project is created with:
