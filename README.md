@@ -10,8 +10,8 @@ Allow users to conquer their day with customizable to-do list tailored to their 
 
 </ul>
 ### Technologies
-Project is created with:
 
+Project is created with:
 - React.js
 - HTML5
 - CSS3
